@@ -1,0 +1,17 @@
+/.DS_Store
+/.venv
+/mlflow.db
+/testenv
+/w1l1
+/w1l2
+/w2l1
+/w2l2
+/w2l3
+/w2l4
+/w2l5
+/w2l6
+/w2mlflow-huggingface
+/w2zoomcamp
+.env
+*.txt
+db
